@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lakshman</h1>
-<h3 align="center">A 1st year computer science student</h3>
+<h1 align="center">Hello, I'm Lakshman</h1>
+<h3 align="center">I'm a 1st year computer science student</h3>
 
 - 🌱 I’m currently learning **Javascript, Python, React, Django**
+
+- 💬 Interested in **Web dev, Data Science, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
