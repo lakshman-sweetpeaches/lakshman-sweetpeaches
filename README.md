@@ -1,4 +1,4 @@
-<h3 align="center">Hello I'm Lakshman and I'm a computer science student</h3>
+<h3 align="center">Hello I'm Lakshman and I'm a computer science undergrad</h3>
 
 - 🌱 I’m currently learning **Javascript, Python, React, Django**
 
