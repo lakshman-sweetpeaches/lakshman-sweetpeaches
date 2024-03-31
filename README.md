@@ -1,8 +1,8 @@
 <h2 align="center">Hello I'm Lakshman, a computer science undergraduate student</h2>
 
 - I’m currently learning **Data Analysis, Machine Learning, Python, Django and Java**
-
 - Interested in **Data Science, Data Analysis and Machine Learning**
+- Keen about computational sciences and explore it as a hobby
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
