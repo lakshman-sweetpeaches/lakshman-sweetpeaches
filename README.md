@@ -1,10 +1,11 @@
 <h2 align="center">Hello I'm Lakshman, a computer science undergraduate student</h2>
 
 - Currently learning **Multivariate Statistical Analysis, Statistical Pattern Recognition, and Machine Learning**
-- I use **Python, Django (Learning), Rust, C, MySQL, PostgreSQL**
+- Well versed with **Python, C, C#.NET, PostgreSQL, Pytorch, FastAPI**
+- Tinkering with **Django, Flutter, Rust**
 - Interested in:
 
   - Data Science
-  - Data Analysis
+  - Spatial Statistics
   - Machine Learning
   - Computational sciences
